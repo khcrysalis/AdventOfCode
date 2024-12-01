@@ -1,0 +1,5 @@
+*/build
+
+# malware
+.vscode
+*.DS_Store
